@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aafb66e5-e7ce-45ff-b65c-ce87e08f95f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/api-server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/database.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Footer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Header.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Memo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/html/study/node_memo/frontend/src/components&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/html/designamu_node&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -67,7 +62,9 @@
       <updated>1714540659205</updated>
       <workItem from="1714540660259" duration="11992000" />
       <workItem from="1714614775789" duration="17711000" />
-      <workItem from="1714699506889" duration="4360000" />
+      <workItem from="1714699506889" duration="8036000" />
+      <workItem from="1715223749611" duration="3631000" />
+      <workItem from="1715648511170" duration="598000" />
     </task>
     <servers />
   </component>
